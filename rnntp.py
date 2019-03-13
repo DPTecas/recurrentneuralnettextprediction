@@ -24,3 +24,4 @@ rcParams['figure.figsize'] = 12, 5
 #path = 'nietzsche.txt'
 #text = open(path).read().lower()
 #print('corpus length:', len(text))
+#commit by jonathan 
