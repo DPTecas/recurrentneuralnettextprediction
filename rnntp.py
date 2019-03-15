@@ -19,7 +19,9 @@ sns.set(style='whitegrid', palette='muted', font_scale=1.5)
 
 rcParams['figure.figsize'] = 12, 5
 
+#Adding this comment to test my git ~ Jason Reed
 #need to fine the text, or our own text to use
 #path = 'nietzsche.txt'
 #text = open(path).read().lower()
 #print('corpus length:', len(text))
+#commit by jonathan 
